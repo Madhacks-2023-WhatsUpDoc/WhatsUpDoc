@@ -14,27 +14,27 @@ doctors_collection = doctors_db.doctors_collection
 
 
 doctor = {
-    "first_name": "Alex",
-    "last_name": "Iliarski",
-    "age": 20,
+    "first_name": "Dwight",
+    "last_name": "Schrute",
+    "age": 36,
     "gender": "MALE",
-    "specialty": "SURGEON",
+    "specialty": "RADIOLOGIST",
     "available": True,
     "address": {
-        "street": "500 SE Harvard St",
-        "city": "Minneapolis",
-        "state": "MN",
-        "zip": "55455",
+        "street": "700 S Brooks St",
+        "city": "Madison",
+        "state": "WI",
+        "zip": "Schrute",
     },
     "insurance_accepted": ["ALLIANZ"],
     "phone": "612-257-1776",
-    "email": "alexiliarski@gmail.com",
-    "avatar_url": "https://cdn.discordapp.com/attachments/1078854245866016848/1081788370084167780/Screenshot_2023-03-04_at_10.00.42_PM.png",
+    "email": "dwightedhrute@i0dev.com",
+    "avatar_url": "https://cdn.discordapp.com/attachments/1078854245866016848/1082006810636075138/Screenshot_2023-03-05_at_12.28.41_PM.png",
     "languages": ["ENGLISH"],
     "pronouns": ["he", "him"],
     "degree": "MD",
-    "years_of_experience": 5,
-    "college": "University of University",
+    "years_of_experience": 7,
+    "college": "University of Germany",
 }
 
 
